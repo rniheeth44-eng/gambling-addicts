@@ -1,0 +1,15 @@
+{
+  "name": "@workspace/discord-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "quick.db": "^9.1.7",
+    "express": "^4.18.2"
+  }
+}
